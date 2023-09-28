@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=Colorful-Dark Global Theme by l4k1
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Colorful-Dark-Global
+
+Type=Service
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-ParentApp=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Colorful-Dark-Global
+X-KDE-PluginInfo-Version=1.3
+X-KDE-PluginInfo-Website=https://github.com/L4ki/Colorful-Plasma-Themes
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
+X-Plasma-MainScript=defaults
+X-Plasma-APIVersion=2
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2078411,kns://colorschemes.knsrc/api.kde-look.org/2078410,kns://plasma-themes.knsrc/api.kde-look.org/2078440,kns://icons.knsrc/api.kde-look.org/2078427,kns://icons.knsrc/api.kde-look.org/2078427,kns://aurorae.knsrc/api.kde-look.org/2078419,kns://aurorae.knsrc/api.kde-look.org/2078415,kns://aurorae.knsrc/api.kde-look.org/2078415,kns://wallpaper.knsrc/api.kde-look.org/2078392,kns://wallpaper.knsrc/api.kde-look.org/2078390,kns://sddmtheme.knsrc/api.kde-look.org/2078403
