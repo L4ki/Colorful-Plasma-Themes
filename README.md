@@ -23,8 +23,6 @@ Download:
   </body>
 </html>
 
-----------------------------------------------------------
-
 
 
 Screenshots "Colorful-Dark-Plasma":
