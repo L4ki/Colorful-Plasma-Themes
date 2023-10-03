@@ -5,7 +5,7 @@ Colorful Themes For Plasma Desktop
 Dark Plasma Theme: "Colorful-Dark-Plasma" 
 ----------------------------------------
 
-Download: 
+Download: https://www.pling.com/p/2091077
 -------------------------------------------
 
 
