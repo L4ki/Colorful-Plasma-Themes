@@ -39,19 +39,19 @@ Screenshots "Colorful-Dark-Plasma":
 ![5](https://github.com/L4ki/Colorful-Plasma-Themes/assets/45247573/1cdf2c09-187b-422c-b865-b256b3164dbb)
 
 Changelog: 06.10.2023.
-______________________
+---------------------
 
 GTK Theme
-__________
+----------
 
 Update: focus.png
 
 Icons
-_____
+------
 
 Added new icons: apps 32, 48
 
 Plasma Theme
-____________
+-------------
 
 Added icon: yakuake.svg
