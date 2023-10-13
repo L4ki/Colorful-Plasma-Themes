@@ -55,3 +55,21 @@ Plasma Theme
 -------------
 
 Added icon: yakuake.svg
+
+Changelog: 13.10.2023.
+---------------------
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update icon: audio.svg
