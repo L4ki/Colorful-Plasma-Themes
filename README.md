@@ -128,3 +128,21 @@ Plasma Theme
 -------------
 
 Added icon: antimicro.svg
+
+Changelog: 11.11.2023.
+---------------------
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: image.svg
