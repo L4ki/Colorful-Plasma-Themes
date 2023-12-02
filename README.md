@@ -188,3 +188,26 @@ Window Decorations
 ------------------
 
 Update: decoration.svg
+
+Changelog: 02.12.2023.
+---------------------
+
+GTK Theme
+----------
+
+Update: styles
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: krusader_root.svg, krusader_user
+
+Window Decorations
+------------------
+
+Update: Auroraerc.svg
