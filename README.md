@@ -229,3 +229,27 @@ Plasma Theme
 -------------
 
 Added icon: telegram.svg
+
+
+Changelog: 16.12.2023.
+---------------------
+
+GTK Theme
+----------
+
+Update: checkbox-checked.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: corectrl.svg
+
+Window Decorations
+------------------
+
+Update: shade.svg
