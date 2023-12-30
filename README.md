@@ -278,4 +278,9 @@ Window Decorations
 
 Update: restore.svg
 
+Splashscreen
+------------
+
+Update: Splash.qml
+
 
