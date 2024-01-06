@@ -283,4 +283,24 @@ Splashscreen
 
 Update: Splash.qml
 
+Changelog: 06.01.2024.
+---------------------
+
+GTK Theme
+----------
+
+Update: gtk-3.0
+
+Icons
+------
+
+Added new icons: 48
+
+Plasma Theme
+-------------
+
+Added icon: lutris.svg
+
+
+
 
