@@ -302,5 +302,29 @@ Plasma Theme
 Added icon: lutris.svg
 
 
+Changelog: 13.01.2024.
+---------------------
+
+GTK Theme
+----------
+
+Update:gtkrc
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added icon: solaar.svg
+
+Window Decorations
+------------------
+
+Update: maximize.svg
+
+
 
 
