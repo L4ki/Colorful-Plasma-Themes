@@ -331,7 +331,7 @@ Changelog: 20.01.2024.
 GTK Theme
 ----------
 
-Update:checkbox-unchecked-active.png
+Update: checkbox-unchecked-active.png
 
 Icons
 ------
