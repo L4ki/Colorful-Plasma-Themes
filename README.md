@@ -325,6 +325,29 @@ Window Decorations
 
 Update: maximize.svg
 
+Changelog: 20.01.2024.
+---------------------
+
+GTK Theme
+----------
+
+Update:checkbox-unchecked-active.png
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+Window Decorations
+------------------
+
+Update: decoration.svg
+
 
 
 
