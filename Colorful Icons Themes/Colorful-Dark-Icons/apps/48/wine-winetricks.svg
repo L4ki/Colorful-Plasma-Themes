@@ -4,7 +4,7 @@
    height="16"
    version="1.1"
    id="svg22"
-   sodipodi:docname="wine.svg"
+   sodipodi:docname="winetricks.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -320,20 +320,32 @@
        inkscape:collect="always"
        xlink:href="#linearGradient45"
        id="linearGradient46"
-       x1="0.89077544"
-       y1="294.04251"
-       x2="4.2397308"
-       y2="296.92111"
+       x1="0.19103491"
+       y1="293.4021"
+       x2="3.9131854"
+       y2="296.69641"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient45"
        inkscape:collect="always">
       <stop
-         style="stop-color:#2a7fff;stop-opacity:1"
+         style="stop-color:#c83771;stop-opacity:1"
          offset="0"
          id="stop45" />
       <stop
-         style="stop-color:#4fdcff;stop-opacity:1;"
+         style="stop-color:#d35f8d;stop-opacity:1"
+         offset="0.14429574"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1"
+         offset="0.45930481"
+         id="stop3" />
+      <stop
+         style="stop-color:#00ff66;stop-opacity:1"
+         offset="0.70467788"
+         id="stop5" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1"
          offset="1"
          id="stop46" />
     </linearGradient>
