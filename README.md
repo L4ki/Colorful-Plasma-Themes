@@ -40,13 +40,13 @@ Screenshots "Colorful-Dark-Plasma":
 
 ________________________________________________________________________________
 
-Changelog: 27.01.2024.
+Changelog: 04.02.2024.
 ---------------------
 
 GTK Theme
 ----------
 
-Update: styles
+Update: main.rc
 
 Icons
 ------
@@ -56,12 +56,12 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Added icon: transform.svg
+Added icon: kdf.svg
 
 Window Decorations
 ------------------
 
-Update:  keepabove.svg
+Update: keepbelow.svg
 
 
 
