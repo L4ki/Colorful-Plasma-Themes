@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Colorful-Dark-Global-6",
+        "Description": "Colorful-Dark Global Theme by l4k1",
+        "Id": "Colorful-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/Colorful-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2134957",
+        "kns://window-decorations.knsrc/api.kde-look.org/2134953",
+        "kns://window-decorations.knsrc/api.kde-look.org/2134954",
+        "kns://colorschemes.knsrc/api.kde-look.org/2091039",
+        "kns://colorschemes.knsrc/api.kde-look.org/2091038",
+        "kns://icons.knsrc/api.kde-look.org/2091068",
+        "kns://icons.knsrc/api.kde-look.org/2119129",
+        "kns://icons.knsrc/api.kde-look.org/2102240",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2091077",
+        "kns://wallpaper.knsrc/api.kde-look.org/2091029",
+        "kns://wallpaper.knsrc/api.kde-look.org/2091031"
+    ]
+}
