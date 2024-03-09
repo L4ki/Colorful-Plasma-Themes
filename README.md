@@ -40,28 +40,23 @@ Screenshots "Colorful-Dark-Plasma":
 
 ________________________________________________________________________________
 
-Changelog: 03.03.2024.
+Changelog: 10.03.2024.
 ---------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
-
-Icons
-------
-
-Added new icons: apps 48
+Update: styles
 
 Plasma Theme
 -------------
 
-Added icons: kup.svg, internet.svg
+Added icon: mellowplayer.svg
 
 Window Decorations
 ------------------
 
-Update: alldesktops.svg
+Update: decoration.svg
 
 
 
