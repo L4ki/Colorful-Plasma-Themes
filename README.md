@@ -58,6 +58,11 @@ Window Decorations
 
 Update: decoration.svg
 
+Icons
+-----
+
+Added new icons: apps 48
+
 
 
 
