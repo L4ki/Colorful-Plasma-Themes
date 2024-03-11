@@ -66,8 +66,8 @@ Added new icons: apps 48
 Changelog: 11.03.2024.
 ---------------------
 
-Window Decorations
-------------------
+Window Decorations for Plasma 6
+-------------------------------
 
 Update: Aurorae-6rc.svg
 
