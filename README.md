@@ -51,7 +51,7 @@ Update: gtk-4.0
 Plasma Theme
 -------------
 
-Added widget: tasks.svg
+Update widget: tasks.svg
 
 Window Decorations
 ------------------
