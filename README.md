@@ -40,18 +40,18 @@ Screenshots "Colorful-Dark-Plasma":
 
 ________________________________________________________________________________
 
-Changelog: 01.07.2024.
+Changelog: 08.07.2024.
 ---------------------
 
 GTK Theme
 ----------
 
-Update: main.rc
+Update: gtk-3.0
 
 Plasma Theme
 -------------
 
-Update: bar_meter_horizontal.svg
+Update: bar_meter_vertical.svg
 
 Window Decorations
 ------------------
@@ -63,10 +63,7 @@ Icons
 
 Added new icons: apps 48
 
-SDDM Theme"Colorful-SDDM"
-------------------------
 
-Update: metadata.desktop
 
 
 
