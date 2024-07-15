@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16.000002"
-   height="16"
-   viewBox="0 0 4.2333335 4.2333334"
+   width="124.00004"
+   height="51.999859"
+   viewBox="0 0 32.808341 13.758296"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="configuration-icons.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -16,7 +16,8 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text { color:#d1d5e9; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Text { color:#d1d5e9; }
+</style>
   <defs
      id="defs4">
     <style
@@ -24,17 +25,17 @@
        id="style3" />
     <inkscape:perspective
        id="perspective4146"
-       inkscape:persp3d-origin="11.999999 : 3.7666294 : 1"
-       inkscape:vp_z="23.999998 : 7.7666284 : 1"
-       inkscape:vp_y="0 : 999.99998 : 0"
-       inkscape:vp_x="0 : 7.7666284 : 1"
+       inkscape:persp3d-origin="11.999999 : 13.291592 : 1"
+       inkscape:vp_z="23.999998 : 17.291591 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 17.291591 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective4090"
-       inkscape:persp3d-origin="11.999999 : 3.7666294 : 1"
-       inkscape:vp_z="23.999998 : 7.7666284 : 1"
-       inkscape:vp_y="0 : 999.99998 : 0"
-       inkscape:vp_x="0 : 7.7666284 : 1"
+       inkscape:persp3d-origin="11.999999 : 13.291592 : 1"
+       inkscape:vp_z="23.999998 : 17.291591 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 17.291591 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
@@ -45,8 +46,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.7362474"
-     inkscape:cx="43.05951"
-     inkscape:cy="29.897595"
+     inkscape:cx="61.015499"
+     inkscape:cy="29.98476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,7 +55,7 @@
      inkscape:showpageshadow="true"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="990"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,52 +67,52 @@
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#280b17">
+     inkscape:deskcolor="#3c1022">
     <sodipodi:guide
-       position="-4.7625002,-0.03458798"
+       position="1.1117348e-06,-0.034588498"
        orientation="16.000015,0"
        id="guide4136"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-4.7625002,-4.2679259"
+       position="1.1117348e-06,-4.2679264"
        orientation="0,16"
        id="guide4138"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-0.52916699,-4.2679259"
+       position="4.2333343,-4.2679264"
        orientation="-16.000015,0"
        id="guide4140"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-0.52916699,-0.03458798"
+       position="4.2333343,-0.034588498"
        orientation="0,-16"
        id="guide4142"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-5.685293e-06,-5.3261205"
+       position="4.7624956,-5.326121"
        orientation="0,16.000023"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4.2333335,-5.3261205"
+       position="8.9958348,-5.326121"
        orientation="16.000341,0"
        id="guide2"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4.2333335,-9.559544"
+       position="8.9958348,-9.5595445"
        orientation="0,-16.000023"
        id="guide3"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-5.685293e-06,-9.559544"
+       position="4.7624956,-9.5595445"
        orientation="-16.000341,0"
        id="guide4"
        inkscape:locked="false" />
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="-18.000006"
-       originy="1.9561751e-06"
+       originx="-13.237505"
+       originy="2.4737532e-06"
        spacingx="0.26458331"
        spacingy="0.26458334"
        empcolor="#0099e5"
@@ -139,7 +140,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-4.2333336,-249.37497)">
+     transform="translate(0.52916771,-249.37497)">
     <g
        id="rotate">
       <rect
@@ -597,7 +598,8 @@
            height="2.6458437"
            width="2.6458342"
            id="rect929"
-           style="opacity:0.35;fill:#e5e9ef;fill-opacity:1" />
+           style="opacity:0.35;fill:#e5e9ef;fill-opacity:1"
+           rx="0.12427091" />
         <rect
            y="258.89993"
            x="27.858765"
