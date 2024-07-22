@@ -36,9 +36,9 @@
      bordercolor="#000000"
      pagecolor="#260d17"
      id="base"
-     inkscape:zoom="4"
-     inkscape:cx="47.75"
-     inkscape:cy="3"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="44.901281"
+     inkscape:cy="48.967145"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6747,7 +6747,7 @@
   </g>
   <g
      id="normal-hint-top-margin"
-     transform="matrix(0.58333326,0,0,0.58333326,53.166671,-124.31665)"
+     transform="matrix(0.58333326,0,0,0.58333326,53.166671,-130.11665)"
      style="opacity:0.01">
     <rect
        style="fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3782-3-7-1)"
@@ -6769,11 +6769,11 @@
        height="3"
        x="29"
        y="16.5"
-       transform="matrix(1.3333339,0,0,1,51.333317,139.5)" />
+       transform="matrix(1.3333339,0,0,1,61.5736,139.5)" />
   </g>
   <g
      id="normal-hint-left-margin"
-     transform="matrix(1.3513514,0,0,0.58333326,17.837842,-124.31665)"
+     transform="matrix(1.3513514,0,0,0.58333326,8.637836,-124.31665)"
      style="opacity:0.01">
     <rect
        y="70.000015"
@@ -6786,7 +6786,7 @@
   </g>
   <g
      id="normal-hint-bottom-margin"
-     transform="matrix(0.58333326,0,0,0.58333326,53.166671,-124.31665)"
+     transform="matrix(0.58333326,0,0,0.58333326,53.166671,-115.61699)"
      style="opacity:0.01">
     <rect
        y="32"
