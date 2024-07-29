@@ -51,7 +51,7 @@ Update: gtkrc
 Plasma Theme
 -------------
 
-Update: tabbar.svg
+Update widget: tabbar.svg
 
 Window Decorations
 ------------------
