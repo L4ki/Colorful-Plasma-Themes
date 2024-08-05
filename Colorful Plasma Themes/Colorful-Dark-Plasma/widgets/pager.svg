@@ -5,17 +5,19 @@
    version="1"
    id="svg33"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text { color-stop:#565d8a;    color:#565d8a; }&#10;.ColorScheme-Highlight { color-stop:#565d8a;    color:#565d8a; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Text { color-stop:#565d8a;    color:#565d8a; }
+.ColorScheme-Highlight { color-stop:#565d8a;    color:#565d8a; }
+</style>
   <sodipodi:namedview
      id="namedview35"
-     pagecolor="#280b17"
+     pagecolor="#300d1c"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
@@ -24,16 +26,16 @@
      showgrid="true"
      inkscape:zoom="13.521739"
      inkscape:cx="29.212219"
-     inkscape:cy="9.5032155"
+     inkscape:cy="15.382637"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg33"
      inkscape:showpageshadow="true"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#280b17">
+     inkscape:deskcolor="#300d1c">
     <inkscape:grid
        type="xygrid"
        id="grid1183"
