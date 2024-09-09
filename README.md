@@ -40,18 +40,18 @@ Screenshots "Colorful-Dark-Plasma":
 
 ________________________________________________________________________________
 
-Changelog: 02.09.2024.
+Changelog: 09.09.2024.
 ---------------------
 
 GTK Theme
 ----------
 
-Update: gtk-3.0
+Update: styles
 
 Plasma Theme
 -------------
 
-Update widget: toolbar.svg
+Update widget: tooltip.svg
 
 Window Decorations
 ------------------
