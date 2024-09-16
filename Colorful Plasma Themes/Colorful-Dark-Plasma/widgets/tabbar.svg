@@ -34,14 +34,14 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="98.641393"
-     inkscape:cx="54.800774"
+     inkscape:cy="94.045199"
+     inkscape:cx="70.710676"
      inkscape:zoom="2.8284272"
      inkscape:guide-bbox="true"
      showguides="true"
      showgrid="true"
      id="namedview114"
-     inkscape:window-height="992"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -49,20 +49,28 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#000000"
+     bordercolor="#030303"
      pagecolor="#300d1c"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
-     inkscape:deskcolor="#300d1c">
+     inkscape:deskcolor="#300d1c"
+     labelstyle="default">
     <inkscape:grid
-       type="xygrid"
-       id="grid2892"
+       id="grid1"
+       units="px"
        originx="0"
        originy="0"
-       spacingy="1"
        spacingx="1"
-       units="px"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
        visible="true" />
   </sodipodi:namedview>
   <defs
@@ -137,7 +145,7 @@
        x2="7.0000076"
        y2="39.999996"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9999979,0,0,1.9999979,87.000007,20.000085)" />
+       gradientTransform="matrix(1.9999979,0,0,1.9999979,87.428607,20.000085)" />
     <linearGradient
        id="linearGradient16-3"
        inkscape:collect="always">
@@ -159,7 +167,7 @@
        x2="14.999999"
        y2="40.000008"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9999979,0,0,2.1538433,87.000041,13.846248)" />
+       gradientTransform="matrix(1.9999979,0,0,2.1538433,87.428641,13.846248)" />
     <linearGradient
        id="linearGradient910"
        x1="32.998001"
@@ -193,34 +201,6 @@
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient16" />
   </defs>
-  <rect
-     style="opacity:1;fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-     id="south-active-tab-hint-left-margin"
-     width="15"
-     height="2"
-     x="77.5"
-     y="-27" />
-  <rect
-     y="-27"
-     x="97.5"
-     height="2"
-     width="15"
-     id="south-active-tab-hint-right-margin"
-     style="opacity:1;fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
-  <rect
-     style="opacity:1;fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707108"
-     id="south-active-tab-hint-top-margin"
-     width="2"
-     height="10"
-     x="94.5"
-     y="-38.5" />
-  <rect
-     y="-23.5"
-     x="94.5"
-     height="9.0000038"
-     width="2"
-     id="south-active-tab-hint-bottom-margin"
-     style="opacity:1;fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.948683" />
   <rect
      style="opacity:0.01;fill:#3485fd;fill-opacity:0.01;stroke:none;stroke-width:0.969893"
      id="hint-tile-center"
@@ -328,7 +308,7 @@
   </g>
   <g
      id="south-active-tab-center"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3b5a87;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:2.79999;marker:none;enable-background:accumulate"
        id="selected-center-6"
@@ -340,7 +320,7 @@
   </g>
   <g
      id="south-active-tab-topleft"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <path
        inkscape:connector-curvature="0"
        id="path3895-54-1"
@@ -356,15 +336,15 @@
     <rect
        style="opacity:0.003;fill:#000000;stroke-width:1.88876;stroke-linejoin:round"
        id="rect1097-6-6-6"
-       width="17.000002"
-       height="16.999664"
-       x="83"
+       width="19.57143"
+       height="14.428233"
+       x="80.428551"
        y="-98.999664"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-topright"
-     transform="matrix(0.77777708,0,0,0.72222135,10.555636,-54.999951)">
+     transform="matrix(0.77777708,0,0,0.72222135,10.222279,-54.999951)">
     <path
        inkscape:connector-curvature="0"
        id="path3895-6-72-9"
@@ -380,15 +360,15 @@
     <rect
        style="opacity:0.003;fill:#000000;stroke-width:2.67116;stroke-linejoin:round"
        id="rect1097-6-6-6-2"
-       width="18.307693"
-       height="17.000069"
-       x="81.692307"
-       y="-136.00005"
+       width="21.076807"
+       height="14.428641"
+       x="78.923195"
+       y="-133.42862"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-top"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <rect
        y="87.999992"
        x="103.00042"
@@ -405,15 +385,15 @@
     <rect
        style="opacity:0.003;fill:#000000;stroke-width:1.58692;stroke-linejoin:round"
        id="rect1097-6-6-6-7"
-       width="17.000002"
+       width="19.571476"
        height="12.000032"
-       x="83"
+       x="80.428551"
        y="-115.00003"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-bottomright"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <path
        inkscape:connector-curvature="0"
        id="path3895-3-7-5"
@@ -429,15 +409,15 @@
     <rect
        style="opacity:0.003;fill:#000000;stroke-width:1.88879;stroke-linejoin:round"
        id="rect1097-6-6-6-0"
-       width="17"
-       height="17.000002"
+       width="19.571459"
+       height="14.428622"
        x="120"
-       y="-136"
+       y="-133.42862"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-bottomleft"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <path
        inkscape:connector-curvature="0"
        id="path3895-5-2-2"
@@ -453,15 +433,15 @@
     <rect
        style="opacity:0.003;fill:#000000;stroke-width:1.88879;stroke-linejoin:round"
        id="rect1097-6-6-6-9"
-       width="17"
-       height="17"
+       width="18.285744"
+       height="14.428569"
        x="120"
        y="-99"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-bottom"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <g
        id="g1">
       <rect
@@ -481,7 +461,7 @@
       <rect
          style="opacity:0.003;fill:#000000;stroke-width:1.5869;stroke-linejoin:round"
          id="rect1097-6-6-6-3"
-         width="17"
+         width="19.571459"
          height="12.000002"
          x="120"
          y="-115"
@@ -490,7 +470,7 @@
   </g>
   <g
      id="south-active-tab-right"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <rect
        transform="rotate(90)"
        y="-131"
@@ -509,14 +489,14 @@
        style="opacity:0.003;fill:#000000;stroke-width:1.5869;stroke-linejoin:round"
        id="rect1097-6-6-6-6"
        width="12.000017"
-       height="17.000002"
+       height="14.42862"
        x="103.99999"
-       y="-136"
+       y="-133.42862"
        transform="rotate(90)" />
   </g>
   <g
      id="south-active-tab-left"
-     transform="matrix(0.77777708,0,0,0.77777708,10.555636,-60.555482)">
+     transform="matrix(0.77777708,0,0,0.77777708,10.222279,-60.555482)">
     <rect
        transform="rotate(-90)"
        y="87.000008"
@@ -535,7 +515,7 @@
        style="opacity:0.003;fill:#000000;stroke-width:1.58689;stroke-linejoin:round"
        id="rect1097-6-6-6-06"
        width="12.00001"
-       height="17"
+       height="14.428569"
        x="104"
        y="-99"
        transform="rotate(90)" />
@@ -818,4 +798,32 @@
      x="-59.522873"
      y="-152.00441"
      transform="scale(-1)" />
+  <rect
+     style="fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.894414"
+     id="south-active-tab-hint-left-margin"
+     width="12"
+     height="2"
+     x="37"
+     y="-75.5" />
+  <rect
+     y="-76"
+     x="66.915192"
+     height="2"
+     width="12.000001"
+     id="south-active-tab-hint-right-margin"
+     style="fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.894465" />
+  <rect
+     style="fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707107"
+     id="south-active-tab-hint-top-margin"
+     width="2"
+     height="10"
+     x="60.03302"
+     y="-87" />
+  <rect
+     y="-72"
+     x="60.03302"
+     height="9"
+     width="2"
+     id="south-active-tab-hint-bottom-margin"
+     style="fill:#975cf6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.948683" />
 </svg>
