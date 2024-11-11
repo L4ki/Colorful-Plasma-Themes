@@ -7,7 +7,7 @@
    viewBox="0 0 68.000196 165.60022"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="translucentbackground.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,7 +19,8 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Background { stop-color:#1e2431;    color:#1e2431; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Background { stop-color:#1e2431;    color:#1e2431; }
+</style>
   <defs
      id="defs4">
     <linearGradient
@@ -309,8 +310,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.1864226"
-     inkscape:cx="16.633073"
-     inkscape:cy="75.16266"
+     inkscape:cx="16.476157"
+     inkscape:cy="75.319576"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
