@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="micro.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.627417"
+     inkscape:cx="5.9662135"
+     inkscape:cy="7.9991454"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 13.351654,8.2688595 C 13.14621,9.0972145 12.505151,9.9613785 11.55746,9.9880515 10.944387,10.093897 10.292818,9.7449865 10.126263,9.1459995 9.9523735,8.5572505 9.9124725,7.9161525 10.061917,7.3188485 9.8174425,7.6602145 9.6454548,8.1636635 9.3328189,8.5103805 8.5963726,9.4830715 7.3632602,10.213497 6.0903674,10.003233 5.1964027,9.8389575 4.7696916,8.8915365 4.7654705,8.0825875 c -0.0544,-0.395862 0.1012408,-1.086 -0.1343583,-0.896722 -0.6222746,1.566362 -0.8630167,3.4144745 -1.059068,5.0744245 0.078737,0.641063 0.5425348,1.319849 0.159099,1.947215 C 3.4162251,14.764184 2.464219,14.461121 2.501039,13.844201 2.5124395,12.577513 2.9753542,11.199454 3.306037,9.9880515 3.6727802,8.8039835 4.1107389,7.6400065 4.4458684,6.4474425 4.6732228,5.1076755 4.7370321,3.9089825 5.0434496,2.5820181 5.1816366,2.0184446 5.6523964,1.366889 6.330241,1.5237085 6.9638822,1.6703857 6.8033196,2.4497082 6.7058769,2.90862 6.440049,3.9072875 6.0223731,4.6862665 5.6031874,5.6300435 c -0.289737,0.735232 -0.6516055,1.638082 -0.142574,2.362856 0.5626518,0.754928 1.8042524,0.748672 2.447774,0.09462 C 9.0090909,7.1778785 9.6678653,5.8272825 9.8605165,4.4472165 10.06073,3.6447555 10.10309,2.9691039 10.419982,2.1987723 10.616116,1.707653 11.191203,1.3671712 11.717961,1.5915165 c 0.503325,0.2674217 0.36094,0.9383265 0.246163,1.3845401 -0.395146,1.4136349 -1.031366,2.5750809 -1.622467,3.9163679 -0.138961,0.67578 0.184399,1.528626 0.938512,1.69794 0.748287,0.145554 1.535048,-0.3094 1.760941,-1.023217 0.140766,-0.182394 0.228983,-1.193493 0.451904,-0.758306 0.02532,0.489903 -0.01737,0.984158 -0.141362,1.460017 z"
+     stroke-width="0.469892"
+     id="path1"
+     style="fill:url(#linearGradient6)" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2aff80;stop-opacity:1"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear_725_19"
+       x1="31.549601"
+       y1="103.598"
+       x2="109.322"
+       y2="39.351398"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_725_19"
+       x1="31.549601"
+       y1="103.598"
+       x2="109.322"
+       y2="39.351398"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient6"
+       x1="33.530628"
+       y1="100.35197"
+       x2="110.52178"
+       y2="35.498642"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11889089,0,0,0.11607148,0.35997022,0.5714279)" />
+  </defs>
+</svg>
