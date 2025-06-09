@@ -52,6 +52,8 @@ Plasma Theme
 -------------
 
 Update widget: menubaritem.svg
+
+Icons
 -----
 
 Added new icons: apps 48
