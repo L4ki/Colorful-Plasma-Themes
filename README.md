@@ -40,13 +40,13 @@ Screenshots "Colorful-Dark-Plasma":
 
 ________________________________________________________________________________
 
-Changelog: 23.06.2025.
+Changelog: 30.06.2025.
 ---------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: styles
 
 Plasma Theme
 -------------
