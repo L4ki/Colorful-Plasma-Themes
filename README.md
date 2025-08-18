@@ -51,7 +51,7 @@ Update: gtkrc
 Plasma Theme
 -------------
 
-Update:metadata.desktop
+Update: metadata.desktop
 
 Icons
 -----
