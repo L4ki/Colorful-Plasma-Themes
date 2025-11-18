@@ -56,7 +56,7 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 24
+Added new icons: apps 48
 
 
 
