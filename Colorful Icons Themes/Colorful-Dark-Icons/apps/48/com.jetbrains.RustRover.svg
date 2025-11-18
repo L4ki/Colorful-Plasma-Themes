@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="11.984375"
      inkscape:cx="1.1264668"
-     inkscape:cy="14.059974"
+     inkscape:cy="14.226858"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -33,6 +33,18 @@
      inkscape:current-layer="svg19" />
   <defs
      id="defs19">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1"
+         offset="0"
+         id="stop25" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
     <linearGradient
        id="paint0_linear_618_217"
        x1="28.299999"
@@ -159,19 +171,19 @@
        id="linearGradient21"
        x1="1.4999951"
        y1="1.5076946"
-       x2="14.500005"
-       y2="14.492305"
+       x2="13.319534"
+       y2="12.352841"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.0005972,4.8360758e-6,-8.9577228e-4)" />
     <linearGradient
        id="linearGradient19"
        inkscape:collect="always">
       <stop
-         style="stop-color:#00d455;stop-opacity:1"
+         style="stop-color:#ffd42a;stop-opacity:1"
          offset="0"
          id="stop20" />
       <stop
-         style="stop-color:#ff9955;stop-opacity:1"
+         style="stop-color:#ff5555;stop-opacity:1"
          offset="1"
          id="stop21" />
     </linearGradient>
@@ -193,11 +205,11 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#37c8ab;stop-opacity:1"
+         style="stop-color:#ffd42a;stop-opacity:1"
          offset="0.46694657"
          id="stop3" />
       <stop
-         style="stop-color:#ff5555;stop-opacity:1"
+         style="stop-color:#ff2a2a;stop-opacity:1"
          offset="1"
          id="stop2" />
     </linearGradient>
@@ -446,7 +458,7 @@
       <stop
          stop-color="#F237EF"
          id="stop19-2"
-         style="stop-color:#00d4aa;stop-opacity:1" />
+         style="stop-color:#ffd42a;stop-opacity:1" />
       <stop
          offset="0.986957"
          stop-color="#FC5252"
@@ -469,15 +481,16 @@
     <linearGradient
        id="paint6_linear-6-6"
        x1="35.680626"
-       y1="25.069557"
-       x2="43.680626"
-       y2="25.069557"
+       y1="29.069557"
+       x2="45.680626"
+       y2="28.799217"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-15.680626,4.1909484e-5)">
+       gradientTransform="translate(-15.680626,4.1909484e-5)"
+       xlink:href="#linearGradient3">
       <stop
          stop-color="#F237EF"
          id="stop19-2-7"
-         style="stop-color:#37c8ab;stop-opacity:1" />
+         style="stop-color:#ffdd55;stop-opacity:1" />
       <stop
          offset="0.986957"
          stop-color="#FC5252"
@@ -499,11 +512,11 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2"
+       xlink:href="#linearGradient3"
        id="linearGradient26"
        x1="4.5084748"
        y1="11.760756"
-       x2="9.505868"
+       x2="9.5058675"
        y2="11.760756"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -524,7 +537,7 @@
      x="4.5084748"
      y="11.177314"
      id="rect23"
-     style="color:#d5c289;fill:url(#linearGradient26);stroke-width:1.39419"
+     style="color:#d5c289;fill:url(#linearGradient26);stroke-width:1.39419;fill-opacity:1"
      ry="0.62585253"
      rx="0.29356819" />
   <path
